@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - Email 📧 uphyeon@kakao.com
-- [Notion 📔](https://4anghyeon.notion.site/)
+- [Notion 📔](https://www.notion.so/4anghyeon/)
