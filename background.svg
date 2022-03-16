@@ -7,7 +7,7 @@
           <style type="text/css">
 @font-face {
     font-family: Indie Flower;
-    src: url("Indie_Flower/IndieFlower-Regular.ttf") format('truetype');
+    src: url("/Indie_Flower/IndieFlower-Regular.ttf") format('truetype');
 }
             .small{
               font: italic 13px 'Indie Flower', sans-serif;
