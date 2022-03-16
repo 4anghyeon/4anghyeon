@@ -4,10 +4,10 @@
 
 </p>
 
-### Hi there 👋
+# Hi there 👋
 
 - Email 📧 uphyeon@kakao.com
 
 
-<img align='right' src="https://readme-jokes.vercel.app/api?bgColor=transparent&borderColor=%23339af0&qColor=%23a5d8ff&aColor=%234dabf7" alt="Jokes Card" />
+<img align='right' src="https://readme-jokes.vercel.app/api?bgColor=transparent&borderColor=%23339af0&qColor=%23a5d8ff&aColor=%234dabf7&textColor=%234dabf7" alt="Jokes Card" />
 
