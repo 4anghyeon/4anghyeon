@@ -5,7 +5,10 @@
         <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
         <defs>
           <style type="text/css">
-            @import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+@font-face {
+    font-family: Indie Flower;
+    src: url("../Indie_Flower/IndieFlower-Regular.ttf") format('truetype');
+}
             .small{
               font: italic 13px 'Indie Flower', sans-serif;
             }
