@@ -9,7 +9,7 @@
   <a href="mailto:uphyeon@kakao.com" target="_blank"><img width='250px' src="https://img.shields.io/badge/uphyeon@kakao.com-FFFFFF?style=flat-square&logo=Kakao&logoColor=FFCD00"/></a>
 </p>
 <p>
-<a href="https://www.notion.so/4anghyeon/sanghyeon-log-591bde737b334d7da0b2740120e146b4" target="_blank"><img width='100px' src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href="https://4anghyeon.notion.site/sanghyeon-log-591bde737b334d7da0b2740120e146b4" target="_blank"><img width='100px' src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
 </p>
 
 
