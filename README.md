@@ -4,9 +4,14 @@
 
 </p>
 
-# Hi there 👋
+## Hi there 👋
+<p style='display: flex'>
+  <a href="mailto:uphyeon@kakao.com" target="_blank"><img width='250px' src="https://img.shields.io/badge/uphyeon@kakao.com-FFFFFF?style=flat-square&logo=Kakao&logoColor=FFCD00"/></a>
+</p>
+<p>
+<a href="https://www.notion.so/4anghyeon/sanghyeon-log-591bde737b334d7da0b2740120e146b4" target="_blank"><img width='100px' src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/></a>
+</p>
 
-- Email 📧 uphyeon@kakao.com
 
 
 <img align='right' src="https://readme-jokes.vercel.app/api?bgColor=transparent&borderColor=%23339af0&qColor=%23a5d8ff&aColor=%234dabf7&textColor=%234dabf7" alt="Jokes Card" />
