@@ -1,6 +1,6 @@
-<p align='cneter'>
-  <img style='width:100%' src='name.svg' />
-</p>
+<div align="center">
+    <img src="name.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 ## Hi there 👋
 
