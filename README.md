@@ -1,9 +1,5 @@
 <p align='cneter'>
-  <img style='width:100%' src='https://raw.githubusercontent.com/4anghyeon/4anghyeon/895b119c5eceee45175087c41ac9fd4737f1a989/background.svg' />
-
-  
-</div>
-
+  <img style='width:100%' src='name.svg' />
 </p>
 
 ## Hi there 👋
