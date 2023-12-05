@@ -50,6 +50,7 @@
     }
     .parallax {
         text-align: center;
+        animation: scale-forever 10s cubic-bezier(.55, .5, .45, .5) infinite; 
     }
     .parallax>use {
       animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;      
@@ -76,6 +77,15 @@
       }
       100% {
         transform: translate3d(85px, 0, 0);
+      }
+    }
+
+    @keyframes scale-forever {
+      25% {
+        transform: translateX(-1%)
+      }
+      75% {
+        transform: translateX(1%);
       }
     }
     </style>
