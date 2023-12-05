@@ -14,3 +14,6 @@
   </p>
 
 
+<div align="center">
+    <img src="footer.svg" width="100%" height="50" alt="css-in-readme">
+</div>
