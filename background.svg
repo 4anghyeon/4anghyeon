@@ -31,7 +31,7 @@
     </defs>
 
     <g class="parallax">
-        <text x="5%" y="38" class='medium'>SANGHYEON'S GITHUB</text>
+        <text x="20" y="38" class='medium'>Sanghyeon's Github</text>
         <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(28, 126, 214, 0.4)" />
         <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(116, 192, 252, 0.3)" />
         <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(77, 171, 247, 0.1)" />
