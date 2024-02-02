@@ -7,7 +7,7 @@
 
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4anghyeon&exclude_repo=sanghyeon-digital-garden" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4anghyeon&exclude_repo=sanghyeon-digital-garden&layout=donut" /> 
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=4anghyeon&show_icons=true&theme=default&locale" />
