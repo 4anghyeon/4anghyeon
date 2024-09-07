@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="background.svg" width="50%" height="70" alt="css-in-readme">
-</div>
-
-
-<br/>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/4anghyeon" width="1000" height="240"/>
 </a>
